@@ -1,0 +1,77 @@
+@media screen and (min-width: 320px){
+
+    *{ margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.nine img{
+    width: 430px;
+    height: 466px;
+}
+
+.ten img{
+    width: 430px;
+    height: 544px;
+}
+.ten h3{
+    position: relative;
+    bottom: 400px;
+    left: 30px;
+}
+.ten p {
+position: relative;
+bottom: 350px;
+left: 30px;
+}
+
+.g36 img{
+    position: relative;
+    bottom: 250px;
+    left: 20px;
+}
+.bbr1{
+    position: relative;
+    bottom: 220px;
+    left: 130px;
+    border-radius: 20px;
+    width: 121px;
+    height: 39px;
+    background-color: green;
+
+}
+.bbs{
+    position: relative;
+    bottom: 220px;
+    left: 150px;
+    border-radius: 20px;
+    width: 121px;
+    height: 39px;
+    background-color: yellow;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}

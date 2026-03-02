@@ -1,0 +1,175 @@
+@media screen and (min-width: 320px){
+
+    *{ margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.market img{
+    width: 473px;
+    height: 215px;
+
+}
+
+.ngh{
+    display: flex;
+}
+.ngh h2{
+    position: relative;
+    top: 20px;
+}
+
+.bz1{
+    position: relative;
+    left: 30px;
+    top: 20px;
+    width: 60px;
+    border-radius: 30px;
+    background-color: green;
+}
+
+.bz2{
+    position: relative;
+    top: 20px;
+    width: 60px;
+    border-radius: 30px;
+    left: 50px;
+}
+
+.bz3{
+    position: relative;
+    top: 20px;
+    width: 60px;
+    border-radius: 30px;
+    left: 70px;
+}
+
+.rice img{
+    width: 203px;
+    height: 197px;
+    position: relative;
+    top: 30px;
+}
+.rice h5{
+    position: relative;
+    bottom: 130px;
+    left: 220px;
+
+}
+.rice h3{
+    position: relative;
+    bottom: 127px;
+    left: 220px;
+
+}
+.rice p{
+    position: relative;
+    bottom: 110px;
+    left: 220px;
+
+}
+.boto1{
+    position: relative;
+    bottom: 100px;
+    left: 220px;
+    width: 106px;
+    height: 25px;
+    border-radius: 20px;
+    border-color: yellow;
+
+}
+
+.fz img{
+    width: 179px;
+    height: 172px;
+}
+
+.fz h5{
+     position: relative;
+    bottom: 148px;
+    left: 220px;
+}
+
+
+.fz h3{
+    position: relative;
+    bottom: 127px;
+    left: 220px;
+
+}
+.fz p{
+    position: relative;
+    bottom: 110px;
+    left: 220px;
+
+}
+.boto2{
+    position: relative;
+    bottom: 100px;
+    left: 220px;
+    width: 106px;
+    height: 25px;
+    border-radius: 20px;
+    border-color: yellow;
+
+}
+
+
+.fqw img{
+    width: 121px;
+    height: 135px;
+}
+
+.fqw h5{
+     position: relative;
+    bottom: 148px;
+    left: 220px;
+}
+
+
+.fqw h3{
+    position: relative;
+    bottom: 160px;
+    left: 220px;
+
+}
+.fqw p{
+    position: relative;
+    bottom: 150px;
+    left: 220px;
+
+}
+.boto3{
+    position: relative;
+    bottom: 150px;
+    left: 220px;
+    width: 106px;
+    height: 25px;
+    border-radius: 20px;
+    border-color: yellow;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}

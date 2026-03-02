@@ -1,0 +1,121 @@
+@media screen and (min-width: 320px) {
+    *{ margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+    }
+.farm img{
+    width: 505px;
+    height: 275px;
+}
+
+.amal img{
+    position: relative;
+    bottom: 140px;
+    width: 106px;
+    height: 106px;
+    left: 250px;
+}
+.amal h1{
+    position: relative;
+    bottom: 220px;
+    color: white;
+    width: 332px;
+    height: 60px;
+    left: 20px;
+}
+.amal h2{
+    position: relative;
+    bottom: 220px;
+    color: white;
+    width: 349px;
+    height: 94px;
+    left: 20px;
+}
+.sa{
+    position: relative;
+    bottom: 220px;
+    width: 370px;
+    height: 80px;
+    left: 70px;
+    
+}
+.he img{
+     position: relative;
+     bottom: 150px;
+     width: 161px;
+     height: 160px;
+     left: 70px;
+}
+.he h4{
+    position: relative;
+    bottom: 180px;
+    left: 130px;
+    
+}
+.zze img{
+     position: relative;
+     bottom: 330px;
+      width: 161px;
+     height: 160px;
+     left: 280px;
+    
+}
+.zze h4{
+     position: relative;
+    bottom: 360px;
+    left: 330px;
+}
+.q img{
+     position: relative;
+     bottom: 330px;
+      width: 161px;
+     height: 160px;
+     left: 65px;
+}
+
+.q h4{
+     position: relative;
+    bottom: 360px;
+    left: 120px;
+
+}
+.sss img{
+     position: relative;
+     position: relative;
+     bottom: 510px;
+      width: 161px;
+     height: 160px;
+     left: 270px;
+}
+.sss h4{
+     position: relative;
+    bottom: 540px;
+    left: 320px;
+}
+.hh7{
+    display: flex;
+    position: relative;
+    left: 16px;
+}
+.h1{
+    position: relative;
+    bottom: 500px;
+    left: 40px;
+}
+.two1{
+     position: relative;
+    bottom: 500px;
+    left: 80px;
+}
+.jjj1{
+     position: relative;
+    bottom: 488px;
+    left: 100px;
+}
+.qwdp{
+     position: relative;
+    bottom: 490px;
+    left: 140px;
+}
+
+}

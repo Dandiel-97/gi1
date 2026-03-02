@@ -1,0 +1,120 @@
+@media screen and (min-width: 320px){
+
+    *{ margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.ba13 img{
+    width: 404px;
+    height: 78px;
+}
+
+.ba13 h4{
+    width: 199px;
+    height: 72px;
+    position: relative;
+    bottom: 50px;
+    margin-left: 40px;
+}
+.air{
+    width: 272px;
+    height: 272px;
+    margin-left: 50px;
+}
+.rp1{
+    width: 352px;
+    height: 54px;
+    background-color: black;
+    color: white;
+    border-radius: none;
+}
+.v12{
+    display: flex;
+    justify-content: space-around;
+    width: 442px;
+    height: 86px;
+
+}
+.n1 img{
+    width: 62px;
+    height: 62px;
+    margin-right: 40px;
+     margin-top: 20px;
+}
+.n2 img{
+    width: 59px;
+    height: 71px;
+    margin-right: 30px;
+     margin-top: 20px;
+}
+.n3 img{
+    width: 52px;
+    height: 51px;
+    margin-right: 40px;
+    margin-top: 20px;
+}
+.n4 img{
+    width: 44px;
+    height: 43px;
+    margin-right: 80px;
+    margin-top: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}

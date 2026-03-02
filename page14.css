@@ -1,0 +1,152 @@
+@media screen and (min-width: 320px){
+        *{ margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.tini img{
+    width: 66px;
+    height: 66px;
+    position: relative;
+    bottom: 120px;
+    left: 340px;
+}
+.tini h2{
+    position: relative;
+    left: 170px;
+    bottom: 50px;
+}
+.baq img{
+    position: relative;
+    bottom: 50px;
+    width: 370px;
+    height: 585px;
+}
+
+.clas2{
+    display: flex;
+}
+.g1 img{
+    width: 62px;
+    height: 62px;
+    position: relative;
+    bottom: 50px;
+    left: 20px;
+}
+.g2 img{
+    width: 59px;
+    height: 71px;
+    position: relative;
+    bottom: 50px;
+    left: 50px;
+}
+.g3 img{
+    width: 52px;
+    height: 51px;
+    position: relative;
+    bottom: 37px;
+    left: 90px;
+}
+.g4 img{
+    width: 44px;
+    height: 43px;
+    position: relative;
+    bottom: 37px;
+    left: 120px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}

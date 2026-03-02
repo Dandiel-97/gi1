@@ -1,0 +1,115 @@
+@media screen and (min-width: 320px){
+
+
+    *{ margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.yeq h3{
+    position: relative;
+    bottom: 100px;
+    left: 127px;
+}
+.qwa{
+    width: 153px;
+    height: 35px;
+    position: relative;
+    left: 30px;
+    background-color: greenyellow;
+}
+.qna{
+    width: 66px;
+    height: 32px;
+    background-color: blueviolet;
+    position: relative;
+    left: 130px;
+}
+.proy11 img{
+    position: relative;
+    top: 30px;
+    left: 12px;
+}
+.qw1{
+    width: 145px;
+    height: 35px;
+    position: relative;
+    background-color: rgb(207, 100, 100);
+    top: 70px;
+    right: 370px;
+    border-radius: 30px;
+}
+.qw{
+     width: 145px;
+    height: 35px;
+    position: relative;
+    background-color: green;
+    top: 70px;
+    right: 310px;
+    border-radius: 30px;
+}
+.qpk{
+width: 164px;
+height: 34px;
+position: relative;
+right: 470px;
+border-radius: 20px;
+}
+.balac{
+    display: flex;
+}
+.down1 img{
+    position: relative;
+    top: 150px;
+    width: 62px;
+    height: 62px;
+}
+.danc2 img{
+    position: relative;
+    top: 150px;
+    width: 59px;
+    height: 71px;
+    left: 30px;
+}
+
+.mee img{
+    position: relative;
+    top: 158px;
+    width: 51px;
+    height: 52px;
+    left: 80px;
+}
+.asgz img{
+    position: relative;
+    top: 160px;
+    width: 44px;
+    height: 43px;
+    left: 130px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}

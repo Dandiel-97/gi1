@@ -1,0 +1,66 @@
+ @media screen and (min-width: 320px) {
+
+*{ margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.tire img{
+width: 430px;
+height: 923px;
+}
+.yoga img{
+    width: 208px;
+    height: 207px;
+    position: relative;
+    bottom: 720px;
+    left: 100px;
+}
+.yoga p{
+    position: relative;
+    bottom: 680px;
+    left: 100px;
+    color: white;
+}
+
+.yoga strong{
+    position: relative;
+    bottom: 670px;
+    left: 120px;
+}
+.dmlv p{
+ position: relative;
+ bottom: 650px;
+ left: 90px;
+ color: white;
+}
+.tt{
+    position: relative;
+    bottom: 550px;
+    left: 100px;
+    width: 223px;
+    height: 41px;
+    border-radius: 20px;
+}
+.tz{
+     position: relative;
+    bottom: 500px;
+    left: 100px;
+    width: 223px;
+    height: 41px;
+    background-color: yellow;
+    border-radius: 20px;
+}
+
+}
+
+
+
+
+
+
+
+
+
+
+
+ 

@@ -1,0 +1,145 @@
+@media screen and (min-width: 320px){
+
+
+
+
+    *{ margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.fait h2{
+    position: relative;
+    bottom: 130px;
+    left: 120px;
+}
+.trw1 {
+    position: relative;
+     width: 308px;
+    height: 60px;
+    left: 50px;
+    color: white;
+    border-radius: 10px;
+    background-color: green;
+}
+.trw2 {
+    position: relative;
+    top: 100px;
+    right: 265px;
+    width: 308px;
+    height: 60px;
+    border-radius: 10px;
+        color: white;
+    background-color: green;
+}
+.trw3 {
+    position: relative;
+    width: 308px;
+    height: 60px;
+    border-radius: 10px;
+    top: 190px;
+    right: 579px;
+     color: white;
+    background-color: green;
+}
+.trw4 {
+    position: relative;
+    top: 280px;
+    width: 200px;
+    height: 60px;
+    border-radius: 15px;
+    right: 850px;
+    color: black;
+    background-color: yellow;
+}
+
+.spea img{
+width: 41px;
+height: 29px;
+position: relative;
+left: 300px;
+top: 110px;
+}
+.tic11 img{
+    position: relative;
+    bottom: 40px;
+    left: 300px;
+
+}
+.tic1 img{
+    position: relative;
+    /* bottom: 40px; */
+    left: 300px;
+    top: 50px;
+}
+.okay{
+    display: flex;
+    position: relative;
+    top: 200px;
+}
+.vex1 img{
+    width: 62px;
+    height: 62px;
+    position: relative;
+    left: 10px;
+    top: 10px;
+}
+.soso img{
+    width: 59px;
+    height: 71px;
+     position: relative;
+    left: 50px;
+    top: 10px;
+}
+.deal img {
+    width: 52px;
+    height: 51px;
+    position: relative;
+    left: 100px;
+    top: 20px;
+}
+.jejo img{
+    width: 44px;
+    height: 43px;
+    position: relative;
+    left: 150px;
+    top: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}

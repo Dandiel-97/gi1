@@ -1,0 +1,66 @@
+@media screen and (min-width: 320px) {
+
+*{ margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.krush img{
+    width: 430px;
+    height: 932px;
+}
+.p2 img{
+    width: 208px;
+    height: 207px;
+    position: relative;
+    bottom: 800px;
+    left: 100px;
+}
+.p2 p{
+    position: relative;
+    bottom: 750px;
+    left: 100px;
+    color: white;
+}
+.b3{
+position: relative;
+bottom: 600px;
+background-color: rgb(37, 202, 37);
+color: white;
+width: 156px;
+height: 40px;
+border-radius: 20px;
+
+}
+.b4{
+position: relative;
+bottom: 600px;
+background-color: yellow;
+color: white;
+width: 156px;
+height: 40px;
+border-radius: 20px;
+left: 50px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
